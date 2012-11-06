@@ -10,7 +10,7 @@ setup(
 
     description = 'PSD support for Pymaging',
     license = 'MIT License',
-    keywords = "pymaging png imaging",
+    keywords = "pymaging psd imaging",
 
     py_modules = ['pymaging_psd'],
     install_requires = ['pymaging', 'psd-tools', 'packbits'],
