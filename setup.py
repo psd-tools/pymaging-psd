@@ -6,7 +6,7 @@ setup(
     author = 'Mikhail Korobov',
     author_email = 'kmike84@gmail.com',
     url = 'https://github.com/kmike/pymaging-psd',
-    version = '0.5.1',
+    version = '0.6',
 
     description = 'PSD support for Pymaging',
     license = 'MIT License',
