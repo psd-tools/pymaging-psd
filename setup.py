@@ -6,11 +6,12 @@ setup(
     author = 'Mikhail Korobov',
     author_email = 'kmike84@gmail.com',
     url = 'https://github.com/kmike/pymaging-psd',
-    version = '0.5',
+    version = '0.5.1',
 
     description = 'PSD support for Pymaging',
     license = 'MIT License',
     keywords = "pymaging psd imaging",
+    long_description = open('README.rst').read(),
 
     py_modules = ['pymaging_psd'],
     install_requires = ['pymaging', 'psd-tools', 'packbits'],
