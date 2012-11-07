@@ -14,7 +14,7 @@ setup(
     long_description = open('README.rst').read(),
 
     py_modules = ['pymaging_psd'],
-    install_requires = ['pymaging', 'psd-tools', 'packbits'],
+    install_requires = ['psd-tools', 'packbits'],
     entry_points = {'pymaging.formats': ['psd = pymaging_psd:PSD']},
 
     classifiers=[
